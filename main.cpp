@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "constant.h"
+#include "./common-library/constant.h"
 
 int main (int argc, char **argv )
 {
